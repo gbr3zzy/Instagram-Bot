@@ -83,7 +83,7 @@ class InstagramBot:
 username = "USERNAME"
 password = "PASSWORD"
 
-ig = InstagramBot('givanne.nyc', 'poloking1995')
+ig = InstagramBot('', '')
 ig.login()
 
 hashtags = ['digitalmarketing','socialmediamarketing', 'entrepreneur', 'programmer', 'newyorkcity', 'nyc', 'pythoncoding']
