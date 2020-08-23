@@ -3,7 +3,7 @@ from instapy import InstaPy
 from instapy.util import smart_run
 
 # get a session!
-session = InstaPy(username='givanne.nyc', password='poloking1995',  proxy_address=0,
+session = InstaPy(username='', password='',  proxy_address=0,
                   proxy_port=3128, headless_browser=True)
 
 # let's go! :>
